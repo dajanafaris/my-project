@@ -1,0 +1,50 @@
+h1 {
+  font-family: "Source Code Pro", monospace;
+  color: #673ab7;
+}
+h2 {
+  font-family: "Source Code Pro", monospace;
+  color: #673ab7;
+}
+svg {
+  margin: 0 auto;
+  display: block;
+}
+#next-btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.temperature {
+  font-family: "Source Code Pro", monospace;
+  color: #673ab7;
+}
+
+.col {
+  font-family: "Source Code Pro", monospace;
+  color: #673ab7;
+}
+.weather-app {
+  border: 3px solid;
+  border-color: cc;
+  padding: 30px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.date {
+  font-family: monospace;
+  color: #673ab7;
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+footer {
+  color: black;
+  font-family: "Source Code Pro";
+  text-align: center;
+  margin: 0 auto;
+}
